@@ -1,0 +1,17 @@
+	date	Topic	Tool
+1	23/10/18	Organization	GitHub
+2	30/10/18	Overview about DH	
+3	06/11/18	Digitization and OCR	Abbyy FineReader
+4	13/11/18	XML-TEI and Editions	Notepad++ / Oxygen
+5	20/11/18	Statistics and Visualization	Collab & Pandas / Raw
+6	27/11/18	Textual Corpora	Voyant Tools
+7	04/12/18	Networks	DLINA
+8	11/12/18		
+9	18/12/18	Natural Language Procesing	NLTK, spaCy
+10	25/12/18		
+11	01/01/19		
+12	08/01/19		
+13	15/01/19	Linked Open Data	Wikidata
+14	22/01/19	Stylometry	Stylo
+15	29/01/19	Classification	Stylo
+16	05/02/19	Topic Modeling	Topics Explorer
